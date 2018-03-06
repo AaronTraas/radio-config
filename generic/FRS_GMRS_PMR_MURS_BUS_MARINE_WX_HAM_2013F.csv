@@ -1,4 +1,4 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,
 0,FRS 01,462.562500,,0.000000,Tone,67.0,67.0,023,NN,NFM,12.50,,,,,,
 1,FRS 1,462.562500,,0.000000,Tone,67.0,67.0,023,NN,NFM,12.50,,,,,,
 2,FRS 2,462.587500,,0.000000,Tone,67.0,67.0,023,NN,NFM,12.50,,,,,,
