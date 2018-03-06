@@ -1,4 +1,4 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,
 1,WB2RRA,147.165000,+,0.600000,Tone,114.8,88.5,023,NN,FM,5.00,,,,,,
 2,S.I. RE,440.550000,+,5.000000,Tone,141.3,88.5,023,NN,FM,5.00,,,,,,
 3,2M CALL,146.520000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
