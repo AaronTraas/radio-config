@@ -13,4 +13,6 @@ Aaron's radio configurations for the following devices:
         - 200-221: FRS/GMRS - Bank 2
         - 222-226: MURS - Bank 2
         - 300-302: US calling frequencies - Bank 2
-        - 400-402: Maplewood NJ municipal frequencies - Bank 4
+        - 400-402: Maplewood NJ municipal frequencies - Banks 3 and 4
+        - 403-406: Irvington NJ municipal frequencies - Bank 4
+        - 407-412: South Orange NJ municipal frequencies - Bank 4
